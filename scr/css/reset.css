@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: #f6f6f6f6;
+    overflow: auto;
+}
+
+.texttitle{
+    text-decoration: none;
+    color: black;
+}
+
+.text{
+    color: black;
+    text-decoration: none;
+}
+
+.imagemquadrada{
+    height: 400px;
+    width: 400px;
+}
+
+.imagemretangulo{
+    height: 300px;
+    width: 760px;
+}
